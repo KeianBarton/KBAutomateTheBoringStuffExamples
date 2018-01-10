@@ -1,0 +1,1 @@
+@py.exe C:\Projects\PythonExamples\ch6_validate_input.py %*
